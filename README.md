@@ -1,0 +1,1 @@
+This is a python based web application deployed using Jenkins pipeline to ease deployment process manually and reduce the time to production. This will enable the faster development of the application enabeling the quciker development.
